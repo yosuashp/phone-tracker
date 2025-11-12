@@ -1,0 +1,13 @@
+# Server Requirements
+Flask==3.0.0
+flask-cors==4.0.0
+mysql-connector-python==8.2.0
+python-dotenv==1.0.0
+
+# Android App Requirements (for local testing)
+kivy==2.3.0
+requests==2.31.0
+plyer==2.1.0
+
+# Development
+buildozer==1.5.0
